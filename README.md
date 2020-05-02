@@ -26,3 +26,6 @@ You must address the following questions and tasks in your exploratory analysis.
 
 
 - **ANSWER - QUESTION 02**
+<>[Link to the Question 2 - FIGURE Answer]()
+
+<>[Link to the Question 2 - CODE]()

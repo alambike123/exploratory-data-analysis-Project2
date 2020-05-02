@@ -20,4 +20,9 @@ You must address the following questions and tasks in your exploratory analysis.
 
 - **ANSWER - QUESTION 01**
 
-[Link to the Question 1 answer](https://github.com/alambike123/exploratory-data-analysis-Project2/blob/master/plot1.png)
+[Link to the Question 1 - FIGURE Answer](https://github.com/alambike123/exploratory-data-analysis-Project2/blob/master/plot1.png)
+
+[Link to the Question 1 - CODE](https://github.com/alambike123/exploratory-data-analysis-Project2/blob/master/plot1.R)
+
+
+- **ANSWER - QUESTION 02**

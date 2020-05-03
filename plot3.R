@@ -20,6 +20,9 @@ NEI <- data.table::as.data.table(x = readRDS(file = "summarySCC_PM25.rds"))
 # from 1999–2008 for Baltimore City? Which have seen increases in emissions from 1999–2008? 
 # Use the ggplot2 plotting system to make a plot answer this question.
 
+#ANSWER: The nonpoint type have seen decreases in emissions from 1998-2008 for Baltimore city.
+# On the other hand, the point type incresed in this period. 
+
 question3 <- NEI %>%
   filter(fips == "24510") %>%
   select(year, type, Emissions) %>%

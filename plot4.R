@@ -21,6 +21,8 @@ glimpse(SCC)
 # Across the United States, how have emissions from coal 
 # combustion-related sources changed from 1999–2008?
 
+# ANSWER: It can be seen a decrease in emissions from coal combustion-related sources.
+
 #Merge 
 
 NEISCC <- merge(NEI, SCC, by="SCC")
@@ -40,3 +42,4 @@ ggplot(TotalEmmission, aes(factor(year), Emissions/10^5)) +
   ggtitle("Total Emissions for coal in the US")
 
 dev.off()
+  

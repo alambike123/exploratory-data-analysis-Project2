@@ -21,6 +21,8 @@ NEI <- data.table::as.data.table(x = readRDS(file = "summarySCC_PM25.rds"))
 # Using the base plotting system, make a plot showing the total PM2.5 emission from
 # all sources for each of the years 1999, 2002, 2005, and 2008.
 
+# Answer: Yes, the total emissions from PM2.5 decreased
+
 question1 <- NEI %>%
   group_by(year) %>% 
   summarize(em_year = sum(Emissions))

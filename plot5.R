@@ -19,6 +19,8 @@ NEI <- data.table::as.data.table(x = readRDS(file = "summarySCC_PM25.rds"))
 # How have emissions from motor vehicle sources changed  
 # from 1999–2008 in Baltimore City?
 
+# ANSWER: The emissions from motor vehicle sources decreased. 
+
 scc_vehicle <- SCC %>% 
   select(SCC, EI.Sector) %>% 
   filter(str_detect(pattern = "[Vv]ehicle", EI.Sector))
@@ -39,8 +41,8 @@ if (file.exists("plot5.png")) {
 png("plot5.png",width = 480,height = 480)
 
 ggplot(BA_vehicles, aes(x=as.factor(year), y = Emissions)) +
-    geom_bar(stat="identity") +
-    labs(title="Motor vehicle emissions over the years in Baltimore"
+  geom_bar(stat="identity") +
+  labs(title="Motor vehicle emissions over the years in Baltimore"
        ,x=expression("Years")
        ,y=expression("Emissions (x 1.000 tons)"))
 

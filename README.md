@@ -1,3 +1,34 @@
+### ANSWERS
+
+- **ANSWERS - QUESTION 01**
+
+[Link to the Question 1 - FIGURE ](https://github.com/alambike123/exploratory-data-analysis-Project2/blob/master/plot1.png)
+
+[Link to the Question 1 - CODE](https://github.com/alambike123/exploratory-data-analysis-Project2/blob/master/plot1.R)
+
+- **ANSWERS - QUESTION 02**
+
+[Link to the Question 2 - FIGURE ](https://github.com/alambike123/exploratory-data-analysis-Project2/blob/master/plot2.png)
+
+[Link to the Question 2 - CODE](https://github.com/alambike123/exploratory-data-analysis-Project2/blob/master/plot2.R)
+
+
+- **ANSWERS - QUESTION 03**
+
+[Link to the Question 3 - FIGURE ](https://github.com/alambike123/exploratory-data-analysis-Project2/blob/master/plot3.png)
+
+[Link to the Question 3 - CODE](https://github.com/alambike123/exploratory-data-analysis-Project2/blob/master/plot3.R)
+
+
+
+- **ANSWERS - QUESTION 04**
+
+[Link to the Question 4 - FIGURE ]()
+
+[Link to the Question 4 - CODE]()
+
+
+
 The overall goal of this assignment is to explore the National Emissions Inventory database and see what it say about fine particulate matter pollution in the United states over the 10-year period 1999–2008. You may use any R package you want to support your analysis.
 
 ### Questions
@@ -16,16 +47,5 @@ You must address the following questions and tasks in your exploratory analysis.
 
 6. Compare emissions from motor vehicle sources in Baltimore City with emissions from motor vehicle sources in **Los Angeles County**, California (fips == "06037"). Which city has seen greater changes over time in motor vehicle emissions? 
 
-### ANSWERS
 
-- **ANSWERs - QUESTION 01**
 
-[Link to the Question 1 - FIGURE ](https://github.com/alambike123/exploratory-data-analysis-Project2/blob/master/plot1.png)
-
-[Link to the Question 1 - CODE](https://github.com/alambike123/exploratory-data-analysis-Project2/blob/master/plot1.R)
-
-- **ANSWERS - QUESTION 02**
-
-[Link to the Question 2 - FIGURE ](https://github.com/alambike123/exploratory-data-analysis-Project2/blob/master/plot2.png)
-
-[Link to the Question 2 - CODE](https://github.com/alambike123/exploratory-data-analysis-Project2/blob/master/plot2.R)

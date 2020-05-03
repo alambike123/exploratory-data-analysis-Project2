@@ -18,14 +18,13 @@ You must address the following questions and tasks in your exploratory analysis.
 
 ### ANSWERS
 
-- **ANSWER - QUESTION 01**
+- **ANSWERs - QUESTION 01**
 
-[Link to the Question 1 - FIGURE Answer](https://github.com/alambike123/exploratory-data-analysis-Project2/blob/master/plot1.png)
+[Link to the Question 1 - FIGURE ](https://github.com/alambike123/exploratory-data-analysis-Project2/blob/master/plot1.png)
 
 [Link to the Question 1 - CODE](https://github.com/alambike123/exploratory-data-analysis-Project2/blob/master/plot1.R)
 
+- **ANSWERS - QUESTION 02**
+[Link to the Question 2 - FIGURE Answer](https://github.com/alambike123/exploratory-data-analysis-Project2/blob/master/plot2.png)
 
-- **ANSWER - QUESTION 02**
-<>[Link to the Question 2 - FIGURE Answer]()
-
-<>[Link to the Question 2 - CODE]()
+[Link to the Question 2 - CODE](https://github.com/alambike123/exploratory-data-analysis-Project2/blob/master/plot2.R)

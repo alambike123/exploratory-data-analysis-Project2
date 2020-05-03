@@ -21,6 +21,8 @@ NEI <- data.table::as.data.table(x = readRDS(file = "summarySCC_PM25.rds"))
 # (fips == "06037"). Which city has seen greater changes over time in motor 
 # vehicle emissions?
 
+#ANSWER: It can be seen a great change in Baltimore. 
+
 scc_vehicle <- SCC %>% 
   select(SCC, EI.Sector) %>% 
   filter(str_detect(pattern = "[Vv]ehicle", EI.Sector))

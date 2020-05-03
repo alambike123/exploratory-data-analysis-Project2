@@ -23,9 +23,9 @@
 
 - **ANSWERS - QUESTION 04**
 
-[Link to the Question 4 - FIGURE ]()
+[Link to the Question 4 - FIGURE ](https://github.com/alambike123/exploratory-data-analysis-Project2/blob/master/plot4.png)
 
-[Link to the Question 4 - CODE]()
+[Link to the Question 4 - CODE](https://github.com/alambike123/exploratory-data-analysis-Project2/blob/master/plot4.R)
 
 
 

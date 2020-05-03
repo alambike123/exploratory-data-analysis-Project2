@@ -27,6 +27,11 @@
 
 [Link to the Question 4 - CODE](https://github.com/alambike123/exploratory-data-analysis-Project2/blob/master/plot4.R)
 
+- **ANSWERS - QUESTION 05**
+
+[Link to the Question 4 - FIGURE ](https://github.com/alambike123/exploratory-data-analysis-Project2/blob/master/plot5.png)
+
+[Link to the Question 4 - CODE](https://github.com/alambike123/exploratory-data-analysis-Project2/blob/master/plot5.R)
 
 
 The overall goal of this assignment is to explore the National Emissions Inventory database and see what it say about fine particulate matter pollution in the United states over the 10-year period 1999–2008. You may use any R package you want to support your analysis.

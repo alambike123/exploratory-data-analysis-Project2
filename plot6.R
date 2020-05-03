@@ -16,12 +16,10 @@ NEI <- data.table::as.data.table(x = readRDS(file = "summarySCC_PM25.rds"))
 
 # QUESTION 06
 
-
 # Compare emissions from motor vehicle sources in Baltimore City with 
 # emissions from motor vehicle sources in Los Angeles County, California 
 # (fips == "06037"). Which city has seen greater changes over time in motor 
 # vehicle emissions?
-
 
 scc_vehicle <- SCC %>% 
   select(SCC, EI.Sector) %>% 
@@ -52,4 +50,3 @@ ggplot(LA_BA_vehicles, aes(x=as.factor(year), y = Emissions)) +
        ,y=expression("Emissions (x 1.000 tons)"))
 
 dev.off()
-

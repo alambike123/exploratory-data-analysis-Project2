@@ -1,6 +1,5 @@
 # load the packages
 
-library("ggplot2")
 library("dplyr")
 library("data.table")
 
